@@ -9,7 +9,7 @@ const routes = [
   },
   {
     path: '/memories',
-    component: MemoriesPage
+    component : MemoriesPage
   }
   
 ]
