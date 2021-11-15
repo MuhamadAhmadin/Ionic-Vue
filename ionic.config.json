@@ -1,0 +1,7 @@
+{
+  "name": "Ikamers",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
